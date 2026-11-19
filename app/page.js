@@ -6,7 +6,7 @@ const LINKS = [
   {
     title: "Ultimate Guide to iOS 26.4",
     description: "Key hidden features, battery improvements, and performance updates.",
-    url: "https://9smart.buzz",
+    url: "https://9smart.buzz/posts/ultimate-guide-ios-26-4",
     tag: "Featured Guide",
     badge: "NEW",
   },
